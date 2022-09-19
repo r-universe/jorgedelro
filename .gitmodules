@@ -8,8 +8,3 @@
 	url = https://github.com/jorgedelro/acwr
 	shallow = true
 	registered = true
-[submodule "MFO"]
-	path = MFO
-	url = https://github.com/jorgedelro/mfo
-	shallow = true
-	registered = true
