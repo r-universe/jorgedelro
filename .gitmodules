@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MFO"]
-	path = MFO
-	url = https://github.com/jorgedelro/mfo
-	shallow = true
-	registered = true
 [submodule "ACWR"]
 	path = ACWR
 	url = https://github.com/jorgedelro/acwr
+	shallow = true
+	registered = true
+[submodule "MFO"]
+	path = MFO
+	url = https://github.com/jorgedelro/mfo
 	shallow = true
 	registered = true
