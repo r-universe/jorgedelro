@@ -1,10 +1,10 @@
 [
   {
-    "package": "ACWR",
+    "package": "MFO",
     "oncran": true
   },
   {
-    "package": "MFO",
+    "package": "ACWR",
     "oncran": true
   }
 ]
